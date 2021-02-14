@@ -4,7 +4,7 @@
 
 Hexo implementation of the free [HTML5 Magnetic Template](http://pixelhint.com/magnetic-free-html5-responsive-photography-website-template/)
 
-Magnetic is a photography/design portfolio oriented, responsive theme. [Demo here](http://www.codeblocq.com/assets/projects/hexo-theme-magnetic/).
+Magnetic is a photography/design portfolio oriented, responsive theme. [Demo1 here](http://www.codeblocq.com/assets/projects/hexo-theme-magnetic/),[Demo2 here](http://iccai.tk/).
 
 ## Features Overview
 
